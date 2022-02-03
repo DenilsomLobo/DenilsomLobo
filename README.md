@@ -8,3 +8,10 @@
   <img align="center" alt="Lobo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Lobo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/772863155252625450/938704127796592640/LI_Gi.gif?width=540&height=540">
 </div>
+  
+##
+ 
+<div> 
+  <a href="https://www.instagram.com/lobodenilsom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:denilsomlobo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/denilsom-lobo-de-souza-2b6614230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
