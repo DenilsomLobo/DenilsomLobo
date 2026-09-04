@@ -124,30 +124,6 @@ Além do ambiente corporativo, desenvolvo projetos próprios para aprofundar meu
 └── Git / GitHub
 ```
 
----
-
-# `> projects --featured`
-
-## 🛠️ TI Help
-
-> Internal IT Knowledge & Support System
-
-Sistema desktop desenvolvido para centralizar o conhecimento e as ferramentas utilizadas pela equipe de TI.
-
-```text
-TI HELP
-│
-├── 📚 Knowledge Base
-├── 🔎 Smart Search
-├── ⭐ Favorites
-├── 🕘 Recent History
-├── ☎️ Contacts
-├── 🔐 Access Management
-├── 👤 User Authentication
-├── 💾 Local Database & Backup
-└── 🖥️ Custom Desktop Interface
-```
-
 **Stack**
 
 `Python` • `SQLite` • `Desktop` • `Git`
@@ -156,76 +132,5 @@ TI HELP
 
 ---
 
-## `> github --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsomLobo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsomLobo&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=DenilsomLobo&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## `> git log --activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DenilsomLobo&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## `> sudo find / -name "OnePiece"`
-
-```console
-denilsom@github:~$ sudo find / -name "OnePiece"
-
-Searching Grand Line...
-
-[████████████████████░░░░░] 82%
-
-Scanning East Blue............... DONE
-Scanning Grand Line.............. DONE
-Scanning Skypiea................. DONE
-Scanning Water 7................. DONE
-Scanning New World............... IN PROGRESS
-
-WARNING: World Government access detected.
-
-> The treasure is somewhere in the code._
-```
-
----
-
-## `> contribution --snake`
-
-<div align="center">
-
-![Snake animation](https://github.com/DenilsomLobo/DenilsomLobo/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-while (alive) {
-    learn();
-    build();
-    improve();
-}
-```
-
-### `> Keep learning. Keep building._`
-
-<sub>🏴‍☠️ The journey to find the treasure continues...</sub>
 
 </div>
