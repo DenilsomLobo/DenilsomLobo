@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Building+solutions+for+real-world+problems...;Python+%7C+SQL+Server+%7C+C%23;Senior+ERP+%7C+LSP+%7C+Power+BI;Searching+for+the+One+Piece...;The+treasure+is+somewhere+in+the+code._" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=B3480B&center=true&vCenter=true&width=650&lines=Building+solutions+for+real-world+problems...;Python+%7C+SQL+Server+%7C+C%23;Senior+ERP+%7C+LSP+%7C+Power+BI;Searching+for+the+One+Piece...;The+treasure+is+somewhere+in+the+code._" alt="Typing SVG" />
 
 <br>
 
