@@ -122,13 +122,4 @@ Além do ambiente corporativo, desenvolvo projetos próprios para aprofundar meu
 └── Git / GitHub
 ```
 
-**Stack**
-
-`Python` • `SQLite` • `Desktop` • `Git`
-
-> 💡 Projeto desenvolvido a partir de uma necessidade real do ambiente de TI, servindo também como laboratório para evolução em arquitetura de software, segurança, banco de dados e desenvolvimento Python.
-
----
-
-
 </div>
