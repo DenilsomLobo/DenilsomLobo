@@ -1,63 +1,231 @@
-# 👋 Olá! Meu nome é Denilsom Lobo de Souza
-
-Sou desenvolvedor em constante aprendizado e evolução.  
-Aqui no GitHub compartilho alguns dos meus projetos, estudos e códigos desenvolvidos ao longo da minha jornada na área de Tecnologia da Informação.
-
-<div align="center">
-  <a href="https://github.com/DenilsomLobo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsomLobo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsomLobo&layout=compact&langs_count=7&theme=merko"/>
-  </a>
-</div>
-
-## 💻 Tecnologias
-
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-
-  <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-
-  <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-
-</div>
-
-<br>
-
-## 📊 GitHub
+<!-- ====================================================== -->
+<!--                  DENILSOM LOBO                         -->
+<!--              GitHub Profile README                     -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenilsomLobo&theme=merko)
+# `> DENILSOM LOBO_`
 
-</div>
+### Developer & IT Professional
 
-## 🌐 Contato
-
-<div>
-
-  <a href="https://www.instagram.com/lobodenilsom" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="mailto:denilsomlobo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/denilsom-lobo-de-souza-2b6614230/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-</div>
+`ERP` • `BACKEND` • `DATA` • `AUTOMATION`
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Building+solutions+for+real-world+problems...;Python+%7C+SQL+Server+%7C+C%23;Senior+ERP+%7C+LSP+%7C+Power+BI;Searching+for+the+One+Piece...;The+treasure+is+somewhere+in+the+code._" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denilsom_Lobo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilsom-lobo-de-souza-2b6614230/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denilsomlobo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DenilsomLobo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenilsomLobo)
+
+</div>
+
+---
+
+## `> whoami`
+
+```yaml
+name: Denilsom Lobo
+role: Developer & IT Professional
+location: Brazil
+
+focus:
+  - Software Development
+  - ERP Development
+  - Backend
+  - Databases
+  - Data Analysis
+  - Automation
+
+currently:
+  - Building internal tools with Python
+  - Working with Senior ERP
+  - Developing SQL Server solutions
+  - Improving software architecture skills
+```
+
+Sou um profissional de **Tecnologia da Informação** focado em transformar problemas reais de negócio em soluções através de **código, dados e automação**.
+
+Atuo principalmente com desenvolvimento e customização do **Senior Gestão Empresarial (ERP)**, banco de dados **SQL Server**, regras de negócio, relatórios, integrações e desenvolvimento de aplicações internas.
+
+Além do ambiente corporativo, desenvolvo projetos próprios para aprofundar meus conhecimentos em **Python, C#, arquitetura de software, banco de dados e automação**.
+
+---
+
+## `> tech --stack`
+
+### 💻 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,dart,flutter,html,css&theme=dark" />
+</p>
+
+### 🗄️ Data & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🏢 Enterprise
+
+<p>
+  <img src="https://img.shields.io/badge/Senior_ERP-Gestão_Empresarial-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Senior_HCM-Human_Capital_Management-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSP-Senior_Programming_Language-2C3E50?style=for-the-badge" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+</p>
+
+---
+
+## `> experience --areas`
+
+```text
+📦 ERP & BUSINESS SYSTEMS
+│
+├── Senior Gestão Empresarial
+├── Senior HCM
+├── Desenvolvimento de regras LSP
+├── Relatórios customizados
+├── Desenvolvimento de telas
+├── Integrações
+└── Regras de negócio
+
+
+🗄️ DATABASE & DATA
+│
+├── SQL Server
+├── Desenvolvimento de consultas SQL
+├── Análise de dados
+├── Manutenção de banco de dados
+├── Performance
+└── Power BI
+
+
+⚙️ DEVELOPMENT & AUTOMATION
+│
+├── Python
+├── C#
+├── Automação de processos
+├── Sistemas internos
+├── APIs & Integrações
+└── Git / GitHub
+```
+
+---
+
+# `> projects --featured`
+
+## 🛠️ TI Help
+
+> Internal IT Knowledge & Support System
+
+Sistema desktop desenvolvido para centralizar o conhecimento e as ferramentas utilizadas pela equipe de TI.
+
+```text
+TI HELP
+│
+├── 📚 Knowledge Base
+├── 🔎 Smart Search
+├── ⭐ Favorites
+├── 🕘 Recent History
+├── ☎️ Contacts
+├── 🔐 Access Management
+├── 👤 User Authentication
+├── 💾 Local Database & Backup
+└── 🖥️ Custom Desktop Interface
+```
+
+**Stack**
+
+`Python` • `SQLite` • `Desktop` • `Git`
+
+> 💡 Projeto desenvolvido a partir de uma necessidade real do ambiente de TI, servindo também como laboratório para evolução em arquitetura de software, segurança, banco de dados e desenvolvimento Python.
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsomLobo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsomLobo&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=DenilsomLobo&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## `> git log --activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DenilsomLobo&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## `> sudo find / -name "OnePiece"`
+
+```console
+denilsom@github:~$ sudo find / -name "OnePiece"
+
+Searching Grand Line...
+
+[████████████████████░░░░░] 82%
+
+Scanning East Blue............... DONE
+Scanning Grand Line.............. DONE
+Scanning Skypiea................. DONE
+Scanning Water 7................. DONE
+Scanning New World............... IN PROGRESS
+
+WARNING: World Government access detected.
+
+> The treasure is somewhere in the code._
+```
+
+---
+
+## `> contribution --snake`
+
+<div align="center">
 
 ![Snake animation](https://github.com/DenilsomLobo/DenilsomLobo/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+while (alive) {
+    learn();
+    build();
+    improve();
+}
+```
+
+### `> Keep learning. Keep building._`
+
+<sub>🏴‍☠️ The journey to find the treasure continues...</sub>
+
+</div>
