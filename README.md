@@ -60,7 +60,7 @@ Além do ambiente corporativo, desenvolvo projetos próprios para aprofundar meu
 ### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,dart,flutter,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dart,flutter,php,html,css&theme=dark" />
 </p>
 
 ### 🗄️ Data & Database
@@ -85,7 +85,7 @@ Além do ambiente corporativo, desenvolvo projetos próprios para aprofundar meu
 ### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,visualstudio&theme=dark" />
 </p>
 
 ---
